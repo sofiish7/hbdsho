@@ -1,5 +1,0 @@
-{
-  "name": "Happiest Birthday Sho",
-  "description": "A space-themed interactive birthday website for Sho with real-time wishes and jars of joy.",
-  "requestFramePermissions": ["microphone", "camera"]
-}
